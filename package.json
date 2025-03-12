@@ -1,0 +1,20 @@
+{
+  "name": "sitemap-generator-frontend",
+  "version": "1.0.0",
+  "description": "This is a simple frontend for a sitemap generator. The backend is hosted on Render.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divyansh099/sitemap-generator-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divyansh099/sitemap-generator-frontend/issues"
+  },
+  "homepage": "https://github.com/Divyansh099/sitemap-generator-frontend#readme"
+}
