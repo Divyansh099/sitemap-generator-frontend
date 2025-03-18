@@ -5,7 +5,7 @@ document.getElementById('sitemap-form').addEventListener('submit', async functio
     resultDiv.innerHTML = 'Generating sitemap...';
 
     try {
-        const response = await fetch('https://sitemap-generator-backend.onrender.com', {
+        const response = await fetch('https://sitemap-generator-backend-2.onrender.com', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
